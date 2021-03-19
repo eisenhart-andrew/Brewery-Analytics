@@ -1,4 +1,4 @@
-raw data from zillow and datafiniti
+## Sources
 
 # Housing data
 https://www.zillow.com/research/data/
